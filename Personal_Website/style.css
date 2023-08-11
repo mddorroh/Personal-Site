@@ -1,0 +1,5 @@
+p {color: white}
+h2 {color:white; font-family: Verdana, Geneva, Tahoma, sans-serif;}
+div {background-color: rgb(183, 183, 238); padding: 25px;border-top: 10px solid white;}
+.menu {text-align: center;}
+.name {text-align: center; color:white; font-weight: bold; font-family: Verdana, Geneva, Tahoma, sans-serif; text-transform: uppercase;}
